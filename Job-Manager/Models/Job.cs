@@ -10,7 +10,7 @@
 
         public bool reminder { get; set; }
 
-        public Job()
+        public Job()  
         {
             
         }
